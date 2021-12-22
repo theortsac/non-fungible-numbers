@@ -1,6 +1,6 @@
 ## Non-Fungible Numbers 🔢
 The "Non-Fungible Numbers" project lets you own a specific number forever on the Polygon blockchain! It was made in one day by me, after just starting the [CryptoZombies](https://cryptozombies.io/) course. I really liked how it turned out, but it isn't supposed to make money! Each mint costs 0.0000001 MATIC, which means I would need 3.5 million numbers minted to get to $1 worth of MATIC on the contract's balance.
-To use the smart contract deployed on the Polygon blockchain, just access [this link](https://polygonscan.com/address/0x96faabece7f7c6421c9a104f2d0cb2611466e584) and click `Contract` (the one with the checkmark). Then you can click read and write contract to start interacting with it! Here is a simple guid if you want to mint your own number:
+To use the smart contract deployed on the Polygon blockchain, just access [this link](https://polygonscan.com/address/0x96faabece7f7c6421c9a104f2d0cb2611466e584) and click `Contract` (the one with the checkmark). Then you can click read and write contract to start interacting with it! Here is a simple guide if you want to mint your own number:
 - Access [this link](https://polygonscan.com/address/0x96faabece7f7c6421c9a104f2d0cb2611466e584).
 - Click on `Contract ✓`.
 - Click on `Read Contract`.
