@@ -8,7 +8,7 @@ To use the smart contract deployed on the Polygon blockchain, just access [this 
 - Click on `Write Contract`.
 - Click on `mint`.
 - Put the number from the step before before before this one on `_number (uint256)`.
-- Put `0.0000001` on `_mint`.
+- Put `0.0000001` on `mint` (the field just above `_number (uint256)`).
 - Connect your wallet.
 - Click `Write`.
 - Approve the transaction on metamask.
