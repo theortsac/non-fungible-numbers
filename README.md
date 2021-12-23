@@ -15,6 +15,7 @@ To use the smart contract deployed on the Polygon blockchain, just access [this 
 - Approve the transaction on metamask.
 - You are done, congrats!
 - Extra Tip: Go to the [MATIC faucet](https://matic.supply/) and get your free 0.0005 MATIC, which is enough to cover the 0.0000001 mint price. If gas is a high and it can't cover it you can use the faucet up to 3 times a day, so just use it whenever you can and really soon (same day) you will get enough for your own number!
+
 |          Name          | Privacy |  Type |                                        Action                                        | OwnerOnly |
 |:----------------------:|:-------:|:-----:|:------------------------------------------------------------------------------------:|:---------:|
 |          mint          |  public | write |                 mint the chosen number if<br>it wasn't minted already                |     ❌     |
